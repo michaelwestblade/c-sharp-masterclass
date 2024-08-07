@@ -1,4 +1,4 @@
-namespace TodoList;
+namespace Names_SRP;
 
 public class Names
 {
