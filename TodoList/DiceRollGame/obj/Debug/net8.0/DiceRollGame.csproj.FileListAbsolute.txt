@@ -1,0 +1,15 @@
+/Users/michaelwestblade/GIT/csharp/c-sharp-masterclass/TodoList/DiceRollGame/bin/Debug/net8.0/DiceRollGame
+/Users/michaelwestblade/GIT/csharp/c-sharp-masterclass/TodoList/DiceRollGame/bin/Debug/net8.0/DiceRollGame.deps.json
+/Users/michaelwestblade/GIT/csharp/c-sharp-masterclass/TodoList/DiceRollGame/bin/Debug/net8.0/DiceRollGame.runtimeconfig.json
+/Users/michaelwestblade/GIT/csharp/c-sharp-masterclass/TodoList/DiceRollGame/bin/Debug/net8.0/DiceRollGame.dll
+/Users/michaelwestblade/GIT/csharp/c-sharp-masterclass/TodoList/DiceRollGame/bin/Debug/net8.0/DiceRollGame.pdb
+/Users/michaelwestblade/GIT/csharp/c-sharp-masterclass/TodoList/DiceRollGame/obj/Debug/net8.0/DiceRollGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelwestblade/GIT/csharp/c-sharp-masterclass/TodoList/DiceRollGame/obj/Debug/net8.0/DiceRollGame.AssemblyInfoInputs.cache
+/Users/michaelwestblade/GIT/csharp/c-sharp-masterclass/TodoList/DiceRollGame/obj/Debug/net8.0/DiceRollGame.AssemblyInfo.cs
+/Users/michaelwestblade/GIT/csharp/c-sharp-masterclass/TodoList/DiceRollGame/obj/Debug/net8.0/DiceRollGame.csproj.CoreCompileInputs.cache
+/Users/michaelwestblade/GIT/csharp/c-sharp-masterclass/TodoList/DiceRollGame/obj/Debug/net8.0/DiceRollGame.sourcelink.json
+/Users/michaelwestblade/GIT/csharp/c-sharp-masterclass/TodoList/DiceRollGame/obj/Debug/net8.0/DiceRollGame.dll
+/Users/michaelwestblade/GIT/csharp/c-sharp-masterclass/TodoList/DiceRollGame/obj/Debug/net8.0/refint/DiceRollGame.dll
+/Users/michaelwestblade/GIT/csharp/c-sharp-masterclass/TodoList/DiceRollGame/obj/Debug/net8.0/DiceRollGame.pdb
+/Users/michaelwestblade/GIT/csharp/c-sharp-masterclass/TodoList/DiceRollGame/obj/Debug/net8.0/DiceRollGame.genruntimeconfig.cache
+/Users/michaelwestblade/GIT/csharp/c-sharp-masterclass/TodoList/DiceRollGame/obj/Debug/net8.0/ref/DiceRollGame.dll
