@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract", "Abstract\Abstra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{5F52CC33-9EE7-4E64-9A58-9E6BBA0D70AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cookbook", "Cookbook\Cookbook.csproj", "{92A8A9D2-3C17-4B44-94EC-083657BDF055}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{5F52CC33-9EE7-4E64-9A58-9E6BBA0D70AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F52CC33-9EE7-4E64-9A58-9E6BBA0D70AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F52CC33-9EE7-4E64-9A58-9E6BBA0D70AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92A8A9D2-3C17-4B44-94EC-083657BDF055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92A8A9D2-3C17-4B44-94EC-083657BDF055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92A8A9D2-3C17-4B44-94EC-083657BDF055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92A8A9D2-3C17-4B44-94EC-083657BDF055}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
