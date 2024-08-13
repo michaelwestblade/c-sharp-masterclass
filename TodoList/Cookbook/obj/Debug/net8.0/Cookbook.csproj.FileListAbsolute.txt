@@ -1,0 +1,15 @@
+/Users/michaelwestblade/GIT/csharp/c-sharp-masterclass/TodoList/Cookbook/bin/Debug/net8.0/Cookbook
+/Users/michaelwestblade/GIT/csharp/c-sharp-masterclass/TodoList/Cookbook/bin/Debug/net8.0/Cookbook.deps.json
+/Users/michaelwestblade/GIT/csharp/c-sharp-masterclass/TodoList/Cookbook/bin/Debug/net8.0/Cookbook.runtimeconfig.json
+/Users/michaelwestblade/GIT/csharp/c-sharp-masterclass/TodoList/Cookbook/bin/Debug/net8.0/Cookbook.dll
+/Users/michaelwestblade/GIT/csharp/c-sharp-masterclass/TodoList/Cookbook/bin/Debug/net8.0/Cookbook.pdb
+/Users/michaelwestblade/GIT/csharp/c-sharp-masterclass/TodoList/Cookbook/obj/Debug/net8.0/Cookbook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelwestblade/GIT/csharp/c-sharp-masterclass/TodoList/Cookbook/obj/Debug/net8.0/Cookbook.AssemblyInfoInputs.cache
+/Users/michaelwestblade/GIT/csharp/c-sharp-masterclass/TodoList/Cookbook/obj/Debug/net8.0/Cookbook.AssemblyInfo.cs
+/Users/michaelwestblade/GIT/csharp/c-sharp-masterclass/TodoList/Cookbook/obj/Debug/net8.0/Cookbook.csproj.CoreCompileInputs.cache
+/Users/michaelwestblade/GIT/csharp/c-sharp-masterclass/TodoList/Cookbook/obj/Debug/net8.0/Cookbook.sourcelink.json
+/Users/michaelwestblade/GIT/csharp/c-sharp-masterclass/TodoList/Cookbook/obj/Debug/net8.0/Cookbook.dll
+/Users/michaelwestblade/GIT/csharp/c-sharp-masterclass/TodoList/Cookbook/obj/Debug/net8.0/refint/Cookbook.dll
+/Users/michaelwestblade/GIT/csharp/c-sharp-masterclass/TodoList/Cookbook/obj/Debug/net8.0/Cookbook.pdb
+/Users/michaelwestblade/GIT/csharp/c-sharp-masterclass/TodoList/Cookbook/obj/Debug/net8.0/Cookbook.genruntimeconfig.cache
+/Users/michaelwestblade/GIT/csharp/c-sharp-masterclass/TodoList/Cookbook/obj/Debug/net8.0/ref/Cookbook.dll

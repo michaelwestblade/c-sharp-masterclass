@@ -10,7 +10,7 @@ public class CookiesRecipesApp
         _recipesRepository = recipesRepository;
         _recipesUserInteraction = recipesUserInteraction;
     }
-    public void Run()
+    public void Run(string filePath)
     {
         var allRecipes = _recipesRepository.Read(filePath);
         _recipesUserInteraction.PrintExistingRecipes(allRecipes);
@@ -19,9 +19,9 @@ public class CookiesRecipesApp
 
         var ingredients = _recipesUserInteraction.ReadIngredientsFromUser();
 
-        if (ingredients.Count > 0)
+        if (ingredients.Count() > 0)
         {
-            var recipe = new Recipe(ingredients);
+            var recipe = new Recipe((List<Ingredient>)ingredients);
             allRecipes.Add(recipe);
             _recipesRepository.Write(filePath, allRecipes);
 

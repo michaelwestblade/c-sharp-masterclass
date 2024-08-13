@@ -1,14 +1,28 @@
 namespace Cookbook;
 
-public class RecipesRepository
+public class RecipesRepository: IRecipesRepository
 {
-    public object Read(object filePath)
+    public List<Recipe> Read(string filePath)
     {
-        throw new NotImplementedException();
+        return new List<Recipe>()
+        {
+            new Recipe(new List<Ingredient>()
+            {
+                new WheatFlour(),
+                new Butter(),
+                new Sugar()
+            }),
+            new Recipe(new List<Ingredient>()
+            {
+                new CocoaPowder(),
+                new SpeltFlour(),
+                new Cinnamon()
+            })
+        };
     }
 
-    public void Write(object filePath, object allRecipes)
+    public void Write(object filePath, List<Recipe> allRecipes)
     {
-        throw new NotImplementedException();
+        Console.WriteLine("");
     }
 }
