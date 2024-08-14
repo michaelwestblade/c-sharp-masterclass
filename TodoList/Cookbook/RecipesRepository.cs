@@ -4,11 +4,11 @@ namespace Cookbook;
 
 public class RecipesRepository: IRecipesRepository
 {
-    private readonly StringsRepository _stringsRepository;
+    private readonly IStringsRepository _stringsRepository;
     private readonly IIngredientsRegistry _ingredientsRegistry;
     private const string Separator = ",";
 
-    public RecipesRepository(StringsRepository stringsRepository, IIngredientsRegistry ingredientsRegistry)
+    public RecipesRepository(IStringsRepository stringsRepository, IIngredientsRegistry ingredientsRegistry)
     {
         _stringsRepository = stringsRepository;
         _ingredientsRegistry = ingredientsRegistry;

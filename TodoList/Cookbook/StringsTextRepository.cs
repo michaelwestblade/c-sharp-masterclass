@@ -1,6 +1,6 @@
 namespace Cookbook;
 
-public class StringsRepository: IStringsRepository
+public class StringsTextRepository: IStringsRepository
 {
     private static readonly string Separator = Environment.NewLine;
     public List<string> Read(string filePath)
@@ -10,7 +10,6 @@ public class StringsRepository: IStringsRepository
             var fileContents = File.ReadAllText(filePath);
             return fileContents.Split(Separator).ToList();   
         }
-        
         return new List<string>();
     }
 

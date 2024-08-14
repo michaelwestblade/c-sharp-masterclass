@@ -3,6 +3,6 @@
 using Cookbook;
 
 var ingredientRegistry = new IngredientsRegistry();
-var cookieRecipesApp = new CookiesRecipesApp(new RecipesRepository(new StringsRepository(), ingredientRegistry), new RecipesConsoleUserInteraction(ingredientRegistry));
+var cookieRecipesApp = new CookiesRecipesApp(new RecipesRepository(new StringsJsonRepository(), ingredientRegistry), new RecipesConsoleUserInteraction(ingredientRegistry));
 
-cookieRecipesApp.Run("recipes.txt");
+cookieRecipesApp.Run("recipes.json");
