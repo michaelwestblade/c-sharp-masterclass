@@ -1,3 +1,5 @@
+using Cookbook.FileAccess;
+
 namespace Cookbook;
 
 public static class FileFormatExtensions

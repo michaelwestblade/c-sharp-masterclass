@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 using Cookbook;
+using Cookbook.FileAccess;
 
 const FileFormat fileFormat = FileFormat.JSON;
 const string fileName = "recipes";

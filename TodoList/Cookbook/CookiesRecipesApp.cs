@@ -1,11 +1,5 @@
 namespace Cookbook;
 
-public enum FileFormat
-{
-    JSON,
-    TXT
-}
-
 public class CookiesRecipesApp
 {
     private readonly RecipesRepository _recipesRepository;
