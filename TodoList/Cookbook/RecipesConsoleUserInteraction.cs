@@ -2,9 +2,9 @@ namespace Cookbook;
 
 public class RecipesConsoleUserInteraction: IRecipesUserInteraction
 {
-    private readonly IngredientsRegistry _ingredientsRegistry;
+    private readonly IIngredientsRegistry _ingredientsRegistry;
 
-    public RecipesConsoleUserInteraction(IngredientsRegistry ingredientsRegistry)
+    public RecipesConsoleUserInteraction(IIngredientsRegistry ingredientsRegistry)
     {
         _ingredientsRegistry = ingredientsRegistry;
     }
@@ -37,10 +37,29 @@ public class RecipesConsoleUserInteraction: IRecipesUserInteraction
 
     public IEnumerable<Ingredient> ReadIngredientsFromUser()
     {
-        return new List<Ingredient>()
+        bool shallStop = false;
+        var ingredients = new List<Ingredient>();
+
+        while (!shallStop)
         {
-            new Butter()
-        };
+            ShowMessage("Add an ingredient by its ID or type anything else if finished.");
+            var userInput = Console.ReadLine();
+
+            if (int.TryParse(userInput, out int id))
+            {
+                var selectedIngredient = _ingredientsRegistry.GetById(id);
+                if (selectedIngredient is not null)
+                {
+                    ingredients.Add(selectedIngredient);
+                }
+            }
+            else
+            {
+                shallStop = true;
+            }
+        }
+
+        return ingredients;
     }
 
     public void ShowMessage(string message)

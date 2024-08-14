@@ -2,6 +2,7 @@
 
 using Cookbook;
 
-var cookieRecipesApp = new CookiesRecipesApp(new RecipesRepository(), new RecipesConsoleUserInteraction(new IngredientsRegistry()));
+var ingredientRegistry = new IngredientsRegistry();
+var cookieRecipesApp = new CookiesRecipesApp(new RecipesRepository(new StringsRepository(), ingredientRegistry), new RecipesConsoleUserInteraction(ingredientRegistry));
 
 cookieRecipesApp.Run("recipes.txt");

@@ -2,10 +2,10 @@ using System.Collections;
 
 namespace Cookbook;
 
-public class IngredientsRegistry
+public class IngredientsRegistry : IIngredientsRegistry
 {
 
-    public IEnumerable<Ingredient> All { get; } = new List<Ingredient>()
+    public IEnumerable<Ingredient?> All { get; } = new List<Ingredient?>()
     {
         new WheatFlour(),
         new SpeltFlour(),
@@ -16,4 +16,17 @@ public class IngredientsRegistry
         new Cinnamon(),
         new CocoaPowder()
     };
+
+    public Ingredient? GetById(int id)
+    {
+        foreach (var ingredient in All)
+        {
+            if (ingredient.Id == id)
+            {
+                return ingredient;
+            }
+        }
+
+        return null;
+    }
 }
