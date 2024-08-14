@@ -2,6 +2,13 @@ namespace Cookbook;
 
 public class RecipesConsoleUserInteraction: IRecipesUserInteraction
 {
+    private readonly IngredientsRegistry _ingredientsRegistry;
+
+    public RecipesConsoleUserInteraction(IngredientsRegistry ingredientsRegistry)
+    {
+        _ingredientsRegistry = ingredientsRegistry;
+    }
+
     public void PrintExistingRecipes(IEnumerable<Recipe> allRecipes)
     {
         if (allRecipes.Count() > 0)
@@ -21,7 +28,11 @@ public class RecipesConsoleUserInteraction: IRecipesUserInteraction
 
     public void PromptToCreateRecipe()
     {
-        Console.WriteLine("");
+        Console.WriteLine("Create a new cookie recipe. Here are the available ingredients: ");
+        foreach (var ingredient in _ingredientsRegistry.All)
+        {
+            Console.WriteLine(ingredient);
+        }
     }
 
     public IEnumerable<Ingredient> ReadIngredientsFromUser()
