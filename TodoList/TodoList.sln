@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\In
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cookbook", "Cookbook\Cookbook.csproj", "{92A8A9D2-3C17-4B44-94EC-083657BDF055}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions", "Exceptions\Exceptions.csproj", "{C6B67C77-3890-4E4B-AADF-1DAFA3184221}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{92A8A9D2-3C17-4B44-94EC-083657BDF055}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92A8A9D2-3C17-4B44-94EC-083657BDF055}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92A8A9D2-3C17-4B44-94EC-083657BDF055}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6B67C77-3890-4E4B-AADF-1DAFA3184221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6B67C77-3890-4E4B-AADF-1DAFA3184221}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6B67C77-3890-4E4B-AADF-1DAFA3184221}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6B67C77-3890-4E4B-AADF-1DAFA3184221}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
