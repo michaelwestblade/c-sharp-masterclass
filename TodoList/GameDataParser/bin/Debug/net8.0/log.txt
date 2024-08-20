@@ -1,0 +1,7 @@
+[8/20/2024 4:59:24 PM]
+Exception message: '{' is invalid after a value. Expected either ',', '}', or ']'. Path: $[1] | LineNumber: 6 | BytePositionInLine: 2.. The file is: gamesInvalidFormat.json
+Stack trace:    at GameDataParser.GameDataParserApp.run() in /Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/GameDataParser/GameDataParserApp.cs:line 48
+   at Program.<Main>$(String[] args) in /Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/GameDataParser/Program.cs:line 11
+Source: GameDataParserTargetSite: Void MoveNext()
+        
+        
