@@ -4,11 +4,46 @@ using System.Text.Json;
 using GameDataParser;
 
 Console.WriteLine("Enter the name of the file you want to read: ");
-var fileName = Console.ReadLine();
 
-var fileContent = await File.ReadAllTextAsync(fileName);
+bool isFileRead = false;
+string fileContents = null;
+string fileName = null;
+List<VideoGame> videoGames = default;
+do
+{
+    try
+    {
+        fileName = Console.ReadLine();
 
-var videoGames = JsonSerializer.Deserialize<List<VideoGame>>(fileContent);
+        fileContents = await File.ReadAllTextAsync(fileName);
+        isFileRead = true;
+    }
+    catch (ArgumentNullException error)
+    {
+        Console.WriteLine("The filename cannot be null");
+    }
+    catch (ArgumentException error)
+    {
+        Console.WriteLine("The filename cannot be empty");
+    }
+    catch (FileNotFoundException error)
+    {
+        Console.WriteLine("The file could not be found");
+    }
+} while(!isFileRead);
+
+try
+{
+    videoGames = JsonSerializer.Deserialize<List<VideoGame>>(fileContents);
+}
+catch (JsonException error)
+{
+    var originalColor = Console.ForegroundColor;
+    Console.ForegroundColor = ConsoleColor.Red;
+    Console.WriteLine("The file could not be parsed");
+    Console.ForegroundColor = originalColor;
+    throw new JsonException($"{error.Message}. The file is: {fileName}", error);
+}
 
 if (videoGames.Count > 0)
 {
