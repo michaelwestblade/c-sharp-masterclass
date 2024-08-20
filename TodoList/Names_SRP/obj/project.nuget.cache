@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rgmdeVwpitgTJhwJZ5QxW1Ca0+eaL9DNPZrt6250FhlgQnyfsBU5VoKcyJ7nchkcWp0+dAw9G57ySNKvINEMLA==",
+  "dgSpecHash": "xp/8CjF6vko=",
   "success": true,
-  "projectFilePath": "/Users/michaelwestblade/GIT/csharp/c-sharp-masterclass/TodoList/Names_SRP/Names_SRP.csproj",
+  "projectFilePath": "/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/Names_SRP/Names_SRP.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

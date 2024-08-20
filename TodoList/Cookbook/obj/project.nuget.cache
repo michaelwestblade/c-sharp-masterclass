@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dDc1TeqkPB6zXzyNHEcs46w59jxaRAaQPwWOXVPnHSD7hRENjcJCl3ODjfSnUIefImj2bMOEsexO8DIqY7zjiA==",
+  "dgSpecHash": "5s1PbOKvk+s=",
   "success": true,
-  "projectFilePath": "/Users/michaelwestblade/GIT/csharp/c-sharp-masterclass/TodoList/Cookbook/Cookbook.csproj",
+  "projectFilePath": "/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/Cookbook/Cookbook.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

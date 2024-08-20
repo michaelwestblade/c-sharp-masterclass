@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sIkG1rVflS0LYSdqx2/rEnR6icwFex12anLaTgdHy7eRzRitNAPGrDPyBxMIUS6TpKErxJDQENEFAhkJiBNwWg==",
+  "dgSpecHash": "kLKsDqpvc0I=",
   "success": true,
-  "projectFilePath": "/Users/michaelwestblade/GIT/csharp/c-sharp-masterclass/TodoList/Interfaces/Interfaces.csproj",
+  "projectFilePath": "/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/Interfaces/Interfaces.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

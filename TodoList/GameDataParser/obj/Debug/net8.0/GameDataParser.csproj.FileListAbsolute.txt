@@ -1,0 +1,15 @@
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/GameDataParser/bin/Debug/net8.0/GameDataParser
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/GameDataParser/bin/Debug/net8.0/GameDataParser.deps.json
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/GameDataParser/bin/Debug/net8.0/GameDataParser.runtimeconfig.json
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/GameDataParser/bin/Debug/net8.0/GameDataParser.dll
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/GameDataParser/bin/Debug/net8.0/GameDataParser.pdb
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/GameDataParser/obj/Debug/net8.0/GameDataParser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/GameDataParser/obj/Debug/net8.0/GameDataParser.AssemblyInfoInputs.cache
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/GameDataParser/obj/Debug/net8.0/GameDataParser.AssemblyInfo.cs
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/GameDataParser/obj/Debug/net8.0/GameDataParser.csproj.CoreCompileInputs.cache
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/GameDataParser/obj/Debug/net8.0/GameDataParser.sourcelink.json
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/GameDataParser/obj/Debug/net8.0/GameDataParser.dll
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/GameDataParser/obj/Debug/net8.0/refint/GameDataParser.dll
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/GameDataParser/obj/Debug/net8.0/GameDataParser.pdb
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/GameDataParser/obj/Debug/net8.0/GameDataParser.genruntimeconfig.cache
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/GameDataParser/obj/Debug/net8.0/ref/GameDataParser.dll
