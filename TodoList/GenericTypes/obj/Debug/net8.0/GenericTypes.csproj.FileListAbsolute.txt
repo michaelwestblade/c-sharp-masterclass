@@ -1,0 +1,15 @@
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/GenericTypes/bin/Debug/net8.0/GenericTypes
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/GenericTypes/bin/Debug/net8.0/GenericTypes.deps.json
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/GenericTypes/bin/Debug/net8.0/GenericTypes.runtimeconfig.json
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/GenericTypes/bin/Debug/net8.0/GenericTypes.dll
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/GenericTypes/bin/Debug/net8.0/GenericTypes.pdb
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/GenericTypes/obj/Debug/net8.0/GenericTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/GenericTypes/obj/Debug/net8.0/GenericTypes.AssemblyInfoInputs.cache
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/GenericTypes/obj/Debug/net8.0/GenericTypes.AssemblyInfo.cs
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/GenericTypes/obj/Debug/net8.0/GenericTypes.csproj.CoreCompileInputs.cache
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/GenericTypes/obj/Debug/net8.0/GenericTypes.sourcelink.json
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/GenericTypes/obj/Debug/net8.0/GenericTypes.dll
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/GenericTypes/obj/Debug/net8.0/refint/GenericTypes.dll
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/GenericTypes/obj/Debug/net8.0/GenericTypes.pdb
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/GenericTypes/obj/Debug/net8.0/GenericTypes.genruntimeconfig.cache
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/GenericTypes/obj/Debug/net8.0/ref/GenericTypes.dll

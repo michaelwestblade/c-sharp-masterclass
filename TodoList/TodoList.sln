@@ -16,6 +16,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions", "Exceptions\Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameDataParser", "GameDataParser\GameDataParser.csproj", "{39D801B5-C505-4AA8-A124-4599655A19E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericTypes", "GenericTypes\GenericTypes.csproj", "{AB1A7A50-F56F-4D98-BA36-E0F58D4EAF31}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +56,9 @@ Global
 		{39D801B5-C505-4AA8-A124-4599655A19E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39D801B5-C505-4AA8-A124-4599655A19E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39D801B5-C505-4AA8-A124-4599655A19E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB1A7A50-F56F-4D98-BA36-E0F58D4EAF31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB1A7A50-F56F-4D98-BA36-E0F58D4EAF31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB1A7A50-F56F-4D98-BA36-E0F58D4EAF31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB1A7A50-F56F-4D98-BA36-E0F58D4EAF31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
