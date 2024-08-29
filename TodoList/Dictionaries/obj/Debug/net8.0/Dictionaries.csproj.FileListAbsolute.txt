@@ -1,0 +1,15 @@
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/Dictionaries/bin/Debug/net8.0/Dictionaries
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/Dictionaries/bin/Debug/net8.0/Dictionaries.deps.json
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/Dictionaries/bin/Debug/net8.0/Dictionaries.runtimeconfig.json
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/Dictionaries/bin/Debug/net8.0/Dictionaries.dll
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/Dictionaries/bin/Debug/net8.0/Dictionaries.pdb
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/Dictionaries/obj/Debug/net8.0/Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/Dictionaries/obj/Debug/net8.0/Dictionaries.AssemblyInfoInputs.cache
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/Dictionaries/obj/Debug/net8.0/Dictionaries.AssemblyInfo.cs
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/Dictionaries/obj/Debug/net8.0/Dictionaries.csproj.CoreCompileInputs.cache
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/Dictionaries/obj/Debug/net8.0/Dictionaries.sourcelink.json
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/Dictionaries/obj/Debug/net8.0/Dictionaries.dll
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/Dictionaries/obj/Debug/net8.0/refint/Dictionaries.dll
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/Dictionaries/obj/Debug/net8.0/Dictionaries.pdb
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/Dictionaries/obj/Debug/net8.0/Dictionaries.genruntimeconfig.cache
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/Dictionaries/obj/Debug/net8.0/ref/Dictionaries.dll
