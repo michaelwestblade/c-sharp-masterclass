@@ -1,0 +1,15 @@
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/CustomCache/bin/Debug/net8.0/CustomCache
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/CustomCache/bin/Debug/net8.0/CustomCache.deps.json
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/CustomCache/bin/Debug/net8.0/CustomCache.runtimeconfig.json
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/CustomCache/bin/Debug/net8.0/CustomCache.dll
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/CustomCache/bin/Debug/net8.0/CustomCache.pdb
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/CustomCache/obj/Debug/net8.0/CustomCache.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/CustomCache/obj/Debug/net8.0/CustomCache.AssemblyInfoInputs.cache
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/CustomCache/obj/Debug/net8.0/CustomCache.AssemblyInfo.cs
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/CustomCache/obj/Debug/net8.0/CustomCache.csproj.CoreCompileInputs.cache
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/CustomCache/obj/Debug/net8.0/CustomCache.sourcelink.json
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/CustomCache/obj/Debug/net8.0/CustomCache.dll
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/CustomCache/obj/Debug/net8.0/refint/CustomCache.dll
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/CustomCache/obj/Debug/net8.0/CustomCache.pdb
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/CustomCache/obj/Debug/net8.0/CustomCache.genruntimeconfig.cache
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/CustomCache/obj/Debug/net8.0/ref/CustomCache.dll
