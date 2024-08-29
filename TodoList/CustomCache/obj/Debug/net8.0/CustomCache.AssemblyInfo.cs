@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CustomCache")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e012334817d1651b174c132bbf4429a44cce205")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2d2dfcde16870227117937eff272d625600e061")]
 [assembly: System.Reflection.AssemblyProductAttribute("CustomCache")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CustomCache")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
