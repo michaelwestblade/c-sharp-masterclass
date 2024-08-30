@@ -19,6 +19,13 @@ public class IngredientsRegistry : IIngredientsRegistry
 
     public Ingredient? GetById(int id)
     {
-        return All.FirstOrDefault(ingredient => ingredient.Id == id);
+        var allIngredientsWithGivenId = All.Where(i => i.Id == id);
+        
+        if (allIngredientsWithGivenId.Count() > 1)
+        {
+            throw new InvalidOperationException($"More than one ingredient with id {id} was found.");
+        }
+
+        return allIngredientsWithGivenId.FirstOrDefault();
     }
 }
