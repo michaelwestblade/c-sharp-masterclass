@@ -24,6 +24,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomCache", "CustomCache\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqTutorial", "LinqTutorial\LinqTutorial.csproj", "{CB259347-5B62-4FD4-9410-A2EDCFAF02F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Attributes", "Attributes\Attributes.csproj", "{C3437208-3534-4F9F-8CC0-31C7D21A5E9E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,5 +80,9 @@ Global
 		{CB259347-5B62-4FD4-9410-A2EDCFAF02F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CB259347-5B62-4FD4-9410-A2EDCFAF02F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CB259347-5B62-4FD4-9410-A2EDCFAF02F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3437208-3534-4F9F-8CC0-31C7D21A5E9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3437208-3534-4F9F-8CC0-31C7D21A5E9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3437208-3534-4F9F-8CC0-31C7D21A5E9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3437208-3534-4F9F-8CC0-31C7D21A5E9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

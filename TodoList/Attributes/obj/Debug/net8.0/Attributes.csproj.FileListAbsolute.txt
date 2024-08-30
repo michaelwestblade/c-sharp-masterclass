@@ -1,0 +1,15 @@
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/Attributes/bin/Debug/net8.0/Attributes
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/Attributes/bin/Debug/net8.0/Attributes.deps.json
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/Attributes/bin/Debug/net8.0/Attributes.runtimeconfig.json
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/Attributes/bin/Debug/net8.0/Attributes.dll
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/Attributes/bin/Debug/net8.0/Attributes.pdb
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/Attributes/obj/Debug/net8.0/Attributes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/Attributes/obj/Debug/net8.0/Attributes.AssemblyInfoInputs.cache
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/Attributes/obj/Debug/net8.0/Attributes.AssemblyInfo.cs
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/Attributes/obj/Debug/net8.0/Attributes.csproj.CoreCompileInputs.cache
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/Attributes/obj/Debug/net8.0/Attributes.sourcelink.json
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/Attributes/obj/Debug/net8.0/Attributes.dll
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/Attributes/obj/Debug/net8.0/refint/Attributes.dll
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/Attributes/obj/Debug/net8.0/Attributes.pdb
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/Attributes/obj/Debug/net8.0/Attributes.genruntimeconfig.cache
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/Attributes/obj/Debug/net8.0/ref/Attributes.dll
