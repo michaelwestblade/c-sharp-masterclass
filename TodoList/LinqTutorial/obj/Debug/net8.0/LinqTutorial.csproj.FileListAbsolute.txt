@@ -1,0 +1,15 @@
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/LinqTutorial/obj/Debug/net8.0/LinqTutorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/LinqTutorial/obj/Debug/net8.0/LinqTutorial.AssemblyInfoInputs.cache
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/LinqTutorial/obj/Debug/net8.0/LinqTutorial.AssemblyInfo.cs
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/LinqTutorial/obj/Debug/net8.0/LinqTutorial.csproj.CoreCompileInputs.cache
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/LinqTutorial/obj/Debug/net8.0/LinqTutorial.sourcelink.json
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/LinqTutorial/bin/Debug/net8.0/LinqTutorial
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/LinqTutorial/bin/Debug/net8.0/LinqTutorial.deps.json
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/LinqTutorial/bin/Debug/net8.0/LinqTutorial.runtimeconfig.json
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/LinqTutorial/bin/Debug/net8.0/LinqTutorial.dll
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/LinqTutorial/bin/Debug/net8.0/LinqTutorial.pdb
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/LinqTutorial/obj/Debug/net8.0/LinqTutorial.dll
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/LinqTutorial/obj/Debug/net8.0/refint/LinqTutorial.dll
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/LinqTutorial/obj/Debug/net8.0/LinqTutorial.pdb
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/LinqTutorial/obj/Debug/net8.0/LinqTutorial.genruntimeconfig.cache
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/LinqTutorial/obj/Debug/net8.0/ref/LinqTutorial.dll

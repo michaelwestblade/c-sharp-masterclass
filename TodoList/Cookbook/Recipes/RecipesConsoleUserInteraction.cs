@@ -15,24 +15,19 @@ public class RecipesConsoleUserInteraction: IRecipesUserInteraction
         {
             Console.WriteLine($"Existing recipes are: {Environment.NewLine}");
 
-            var counter = 1;
-            foreach (var recipe in allRecipes)
-            {
-                Console.WriteLine($"*****{counter}*****");
-                Console.WriteLine(recipe);
-                Console.WriteLine();
-                ++counter;
-            }
+            var allRecipesAsStrings = allRecipes
+                .Select((recipe, index) => $@"$""*****{index + 1}*****
+                {recipe}
+                ");
+            Console.WriteLine(Environment.NewLine, allRecipesAsStrings);
+            Console.WriteLine();
         }
     }
 
     public void PromptToCreateRecipe()
     {
         Console.WriteLine("Create a new cookie recipe. Here are the available ingredients: ");
-        foreach (var ingredient in _ingredientsRegistry.All)
-        {
-            Console.WriteLine(ingredient);
-        }
+        Console.WriteLine(string.Join(Environment.NewLine, _ingredientsRegistry.All));
     }
 
     public IEnumerable<Ingredient> ReadIngredientsFromUser()
