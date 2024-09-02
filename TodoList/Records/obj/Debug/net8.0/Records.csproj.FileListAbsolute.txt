@@ -1,0 +1,15 @@
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/Records/bin/Debug/net8.0/Records
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/Records/bin/Debug/net8.0/Records.deps.json
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/Records/bin/Debug/net8.0/Records.runtimeconfig.json
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/Records/bin/Debug/net8.0/Records.dll
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/Records/bin/Debug/net8.0/Records.pdb
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/Records/obj/Debug/net8.0/Records.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/Records/obj/Debug/net8.0/Records.AssemblyInfoInputs.cache
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/Records/obj/Debug/net8.0/Records.AssemblyInfo.cs
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/Records/obj/Debug/net8.0/Records.csproj.CoreCompileInputs.cache
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/Records/obj/Debug/net8.0/Records.sourcelink.json
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/Records/obj/Debug/net8.0/Records.dll
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/Records/obj/Debug/net8.0/refint/Records.dll
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/Records/obj/Debug/net8.0/Records.pdb
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/Records/obj/Debug/net8.0/Records.genruntimeconfig.cache
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/Records/obj/Debug/net8.0/ref/Records.dll
