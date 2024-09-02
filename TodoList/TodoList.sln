@@ -26,6 +26,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqTutorial", "LinqTutoria
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Attributes", "Attributes\Attributes.csproj", "{C3437208-3534-4F9F-8CC0-31C7D21A5E9E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualityAndOperators", "EqualityAndOperators\EqualityAndOperators.csproj", "{09CD12FD-797F-4A36-AA5B-95E89A1BB7B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{C3437208-3534-4F9F-8CC0-31C7D21A5E9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3437208-3534-4F9F-8CC0-31C7D21A5E9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3437208-3534-4F9F-8CC0-31C7D21A5E9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09CD12FD-797F-4A36-AA5B-95E89A1BB7B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09CD12FD-797F-4A36-AA5B-95E89A1BB7B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09CD12FD-797F-4A36-AA5B-95E89A1BB7B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09CD12FD-797F-4A36-AA5B-95E89A1BB7B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
