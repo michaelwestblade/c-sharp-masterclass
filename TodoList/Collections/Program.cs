@@ -11,6 +11,9 @@ var customCollection = new CustomCollection(
         "ddd",
     });
 
+var first = customCollection[0];
+customCollection[1] = "abc";
+
 foreach (var word in customCollection)
 {
     Console.WriteLine(word);
