@@ -5,7 +5,10 @@ using StarWarsPlanetStats;
 
 try
 {
-    await new StarWarsPlanetStatsApp(new ApiDataReader()).Run();
+    await new StarWarsPlanetStatsApp(
+        new PlanetsFromApiReader(new ApiDataReader()),
+        new PlanetStatisticsAnalyzer()
+        ).Run();
 }
 catch (Exception ex)
 {
