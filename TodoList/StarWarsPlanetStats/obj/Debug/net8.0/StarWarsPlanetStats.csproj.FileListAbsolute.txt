@@ -1,0 +1,15 @@
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/StarWarsPlanetStats/bin/Debug/net8.0/StarWarsPlanetStats
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/StarWarsPlanetStats/bin/Debug/net8.0/StarWarsPlanetStats.deps.json
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/StarWarsPlanetStats/bin/Debug/net8.0/StarWarsPlanetStats.runtimeconfig.json
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/StarWarsPlanetStats/bin/Debug/net8.0/StarWarsPlanetStats.dll
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/StarWarsPlanetStats/bin/Debug/net8.0/StarWarsPlanetStats.pdb
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/StarWarsPlanetStats/obj/Debug/net8.0/StarWarsPlanetStats.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/StarWarsPlanetStats/obj/Debug/net8.0/StarWarsPlanetStats.AssemblyInfoInputs.cache
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/StarWarsPlanetStats/obj/Debug/net8.0/StarWarsPlanetStats.AssemblyInfo.cs
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/StarWarsPlanetStats/obj/Debug/net8.0/StarWarsPlanetStats.csproj.CoreCompileInputs.cache
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/StarWarsPlanetStats/obj/Debug/net8.0/StarWarsPlanetStats.sourcelink.json
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/StarWarsPlanetStats/obj/Debug/net8.0/StarWarsPlanetStats.dll
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/StarWarsPlanetStats/obj/Debug/net8.0/refint/StarWarsPlanetStats.dll
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/StarWarsPlanetStats/obj/Debug/net8.0/StarWarsPlanetStats.pdb
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/StarWarsPlanetStats/obj/Debug/net8.0/StarWarsPlanetStats.genruntimeconfig.cache
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/StarWarsPlanetStats/obj/Debug/net8.0/ref/StarWarsPlanetStats.dll

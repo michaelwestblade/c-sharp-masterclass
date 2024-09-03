@@ -30,6 +30,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualityAndOperators", "Equ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Records", "Records\Records.csproj", "{274CD7BA-64AA-4C08-84B9-9057F6A950C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarWarsPlanetStats", "StarWarsPlanetStats\StarWarsPlanetStats.csproj", "{76504E0D-7A96-4705-89BD-94FB8394A065}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -96,5 +98,9 @@ Global
 		{274CD7BA-64AA-4C08-84B9-9057F6A950C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{274CD7BA-64AA-4C08-84B9-9057F6A950C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{274CD7BA-64AA-4C08-84B9-9057F6A950C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76504E0D-7A96-4705-89BD-94FB8394A065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76504E0D-7A96-4705-89BD-94FB8394A065}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76504E0D-7A96-4705-89BD-94FB8394A065}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76504E0D-7A96-4705-89BD-94FB8394A065}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
