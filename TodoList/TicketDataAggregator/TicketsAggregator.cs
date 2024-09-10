@@ -26,6 +26,7 @@ public class TicketsAggregator
                var title = split[i];
                var date = split[i + 1];
                var time = split[i + 2];
+               
            }
        }
    }
