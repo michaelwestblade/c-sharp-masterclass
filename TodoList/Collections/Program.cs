@@ -19,4 +19,14 @@ foreach (var word in customCollection)
     Console.WriteLine(word);
 }
 
+var newCollection = new CustomCollection
+{
+    "one", "two", "three"
+};
+
+foreach (var word in newCollection)
+{
+    Console.WriteLine(word);
+}
+
 Console.ReadKey();

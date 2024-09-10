@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i4rVw58Shsw=",
+  "success": true,
+  "projectFilePath": "/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/TicketDataAggregator/TicketDataAggregator.csproj",
+  "expectedPackageFiles": [
+    "/Users/michaelwestblade/.nuget/packages/pdfpig/0.1.9-alpha-20240910-4845f/pdfpig.0.1.9-alpha-20240910-4845f.nupkg.sha512"
+  ],
+  "logs": []
+}

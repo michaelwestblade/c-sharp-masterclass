@@ -34,6 +34,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarWarsPlanetStats", "Star
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{387A82E1-33A4-4A35-AF45-0333D68CC6F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "Strings\Strings.csproj", "{BE3CC21C-947C-46E5-9E04-6BF5978270A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketDataAggregator", "TicketDataAggregator\TicketDataAggregator.csproj", "{D4052488-FE3E-4FBC-9189-18FA05C1A126}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -108,5 +112,13 @@ Global
 		{387A82E1-33A4-4A35-AF45-0333D68CC6F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{387A82E1-33A4-4A35-AF45-0333D68CC6F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{387A82E1-33A4-4A35-AF45-0333D68CC6F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE3CC21C-947C-46E5-9E04-6BF5978270A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE3CC21C-947C-46E5-9E04-6BF5978270A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE3CC21C-947C-46E5-9E04-6BF5978270A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE3CC21C-947C-46E5-9E04-6BF5978270A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4052488-FE3E-4FBC-9189-18FA05C1A126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4052488-FE3E-4FBC-9189-18FA05C1A126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4052488-FE3E-4FBC-9189-18FA05C1A126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4052488-FE3E-4FBC-9189-18FA05C1A126}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
