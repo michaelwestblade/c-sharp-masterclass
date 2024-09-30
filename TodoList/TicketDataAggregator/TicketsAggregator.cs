@@ -19,7 +19,6 @@ public class TicketsAggregator
    public TicketsAggregator(string ticketsFolder)
    {
        _ticketsFolder = ticketsFolder;
-       
    }
    
    public void Run()
