@@ -1,0 +1,15 @@
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/ObserverDesignPattern/bin/Debug/net8.0/ObserverDesignPattern
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/ObserverDesignPattern/bin/Debug/net8.0/ObserverDesignPattern.deps.json
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/ObserverDesignPattern/bin/Debug/net8.0/ObserverDesignPattern.runtimeconfig.json
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/ObserverDesignPattern/bin/Debug/net8.0/ObserverDesignPattern.dll
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/ObserverDesignPattern/bin/Debug/net8.0/ObserverDesignPattern.pdb
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/ObserverDesignPattern/obj/Debug/net8.0/ObserverDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/ObserverDesignPattern/obj/Debug/net8.0/ObserverDesignPattern.AssemblyInfoInputs.cache
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/ObserverDesignPattern/obj/Debug/net8.0/ObserverDesignPattern.AssemblyInfo.cs
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/ObserverDesignPattern/obj/Debug/net8.0/ObserverDesignPattern.csproj.CoreCompileInputs.cache
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/ObserverDesignPattern/obj/Debug/net8.0/ObserverDesignPattern.sourcelink.json
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/ObserverDesignPattern/obj/Debug/net8.0/ObserverDesignPattern.dll
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/ObserverDesignPattern/obj/Debug/net8.0/refint/ObserverDesignPattern.dll
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/ObserverDesignPattern/obj/Debug/net8.0/ObserverDesignPattern.pdb
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/ObserverDesignPattern/obj/Debug/net8.0/ObserverDesignPattern.genruntimeconfig.cache
+/Users/michaelwestblade/GIT/UDEMY/c-sharp-masterclass/TodoList/ObserverDesignPattern/obj/Debug/net8.0/ref/ObserverDesignPattern.dll
