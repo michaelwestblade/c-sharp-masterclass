@@ -1,3 +1,4 @@
+using System.Collections;
 using NUnit.Framework;
 using Utilities;
 
@@ -71,5 +72,22 @@ public class EnumerableExtensionsTests
         var result = input.SumOfEvenNumbers();
         
         Assert.AreEqual(0, result);
+    }
+
+    [TestCaseSource(nameof(GetSumOfEvenNumbersTestCases))]
+    public void SumOfEvenNumbers_ShallReturnNonZeroResult_IfEvenNumbers(int[] input, int expected)
+    {
+        var result = input.SumOfEvenNumbers();
+        
+        Assert.AreEqual(expected, result);
+    }
+
+    private static IEnumerable GetSumOfEvenNumbersTestCases()
+    {
+        return new[]
+        {
+            new object[] { new int[] { 3, 1, 4, 6, 9 }, 10 },
+            new object[] { new List<int>() { 100, 200, 1 }, 300 },
+        };
     }
 }
