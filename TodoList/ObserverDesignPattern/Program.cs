@@ -16,6 +16,9 @@ for (int i = 0; i < 3; ++i)
     goldPriceReaderObservable.ReadCurrentPrice();
 }
 
+goldPriceReaderObservable.DetachObserver(emailPriceChangeNotifierObserver);
+goldPriceReaderObservable.DetachObserver(pushPriceChangeNotifierObserver);
+
 var goldPriceReader = new GoldPriceReader();
 var emailPriceChangeNotifier = new EmailPriceChangeNotifier(threshold);
 var pushPriceChangeNotifier = new PushPriceChangeNotifier(threshold);
@@ -26,3 +29,6 @@ for (int i = 0; i < 3; ++i)
 {
     goldPriceReader.ReadCurrentPrice();
 }
+
+goldPriceReader.PriceRead -= emailPriceChangeNotifier.Update;
+goldPriceReader.PriceRead -= pushPriceChangeNotifier.Update;
