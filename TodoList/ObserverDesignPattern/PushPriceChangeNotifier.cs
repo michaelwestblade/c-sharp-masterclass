@@ -1,10 +1,10 @@
 namespace ObserverDesignPattern;
 
-public class EmailPriceChangeNotifier
+public class PushPriceChangeNotifier
 {
     private readonly decimal _notificationThreshold;
 
-    public EmailPriceChangeNotifier(decimal notificationThreshold)
+    public PushPriceChangeNotifier(decimal notificationThreshold)
     {
         _notificationThreshold = notificationThreshold;
     }
@@ -13,7 +13,7 @@ public class EmailPriceChangeNotifier
     {
         if (eventArgs.Price > _notificationThreshold)
         {
-            Console.WriteLine($"Sending email saying that the price of gold exceeded {_notificationThreshold} and is now {eventArgs.Price}");
+            Console.WriteLine($"Sending push notification saying that the price of gold exceeded {_notificationThreshold} and is now {eventArgs.Price}");
         }
     }
 }

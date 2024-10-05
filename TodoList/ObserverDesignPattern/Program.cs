@@ -4,10 +4,23 @@ using ObserverDesignPattern;
 
 const int threshold = 30_000;
 
-var emailPriceChangeNotifier = new EmailPriceChangeNotifier(threshold);
-var goldPriceReader = new GoldPriceReader();
+var emailPriceChangeNotifierObserver = new EmailPriceChangeNotifierObserver(threshold);
+var pushPriceChangeNotifierObserver = new PushPriceChangeNotifierObserver(threshold);
+var goldPriceReaderObservable = new GoldPriceReaderObservable();
 
-goldPriceReader.AttachObserver(emailPriceChangeNotifier);
+goldPriceReaderObservable.AttachObserver(emailPriceChangeNotifierObserver);
+goldPriceReaderObservable.AttachObserver(pushPriceChangeNotifierObserver);
+
+for (int i = 0; i < 3; ++i)
+{
+    goldPriceReaderObservable.ReadCurrentPrice();
+}
+
+var goldPriceReader = new GoldPriceReader();
+var emailPriceChangeNotifier = new EmailPriceChangeNotifier(threshold);
+var pushPriceChangeNotifier = new PushPriceChangeNotifier(threshold);
+goldPriceReader.PriceRead += emailPriceChangeNotifier.Update;
+goldPriceReader.PriceRead += pushPriceChangeNotifier.Update;
 
 for (int i = 0; i < 3; ++i)
 {

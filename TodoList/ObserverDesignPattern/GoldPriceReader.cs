@@ -1,31 +1,31 @@
 namespace ObserverDesignPattern;
 
-public class GoldPriceReader: IObservable<decimal>
+// public delegate void PriceRead(decimal price);
+
+public class PriceReadEventArgs : EventArgs
 {
-    private int _currentGoldPrice;
-    private readonly List<IObserver<decimal>> _observers = [];
+    public decimal Price { get; }
+
+    public PriceReadEventArgs(decimal price)
+    {
+        Price = price;
+    }
+}
+
+public class GoldPriceReader
+{
+    // public event PriceRead? PriceRead;
+    public event EventHandler<PriceReadEventArgs> PriceRead;
 
     public void ReadCurrentPrice()
     {
-        _currentGoldPrice = new Random().Next(20_000, 50_000);
-        NotifyObservers();
+        var currentGoldPrice = new Random().Next(20_000, 50_000);
+        
+        OnPriceRead(currentGoldPrice);
     }
 
-    public void AttachObserver(IObserver<decimal> observer)
+    private void OnPriceRead(decimal price)
     {
-        _observers.Add(observer);
-    }
-
-    public void DetachObserver(IObserver<decimal> observer)
-    {
-        _observers.Remove(observer);
-    }
-
-    public void NotifyObservers()
-    {
-        foreach (var observer in _observers)
-        {
-            observer.Update( _currentGoldPrice);
-        }
+        PriceRead?.Invoke(this, new PriceReadEventArgs(price));
     }
 }
